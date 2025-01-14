@@ -1,2 +1,2 @@
 # task-1--bmi-calculator
-bmi calculator oasis infobyte
+bmi calculator for oasis infobyte internship
